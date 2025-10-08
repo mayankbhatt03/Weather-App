@@ -35,20 +35,20 @@ Clone this repository
   git clone https://github.com/mayankbhatt03/Weather-App.git
 
 
-Open the project folder
+1: Open the project folder
 
-  cd global-weather-app
+2: cd global-weather-app
 
 
-Get your API Key
+3: Get your API Key
 
-  Sign up on OpenWeatherMap
+4: Sign up on OpenWeatherMap
 
-  Copy your API key
+5: Copy your API key
 
-  Paste it in script.js replacing:
+6: Paste it in script.js replacing:
 
-  const apiKey = "YOUR_API_KEY";
+7: const apiKey = "YOUR_API_KEY";
 
 
 Run the project
