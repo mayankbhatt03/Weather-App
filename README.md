@@ -32,7 +32,7 @@ OpenWeatherMap API — Real-time weather data
 
 Clone this repository
 
-  git clone https://github.com/your-username/global-weather-app.git
+  git clone https://github.com/your-username/Weather-App.git
 
 
 Open the project folder
